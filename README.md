@@ -1,4 +1,4 @@
-# social-network-dynamics-using-graph-theory
+# Dinamica de Redes Sociais com Teoria de Grafos
 Utilização da Teoria de Grafos para descrever dinâmicas de redes sociais
 
 Para um melhor entendimento da ideia do trabalho e de seus conceitos, acessar o artigo acima:
